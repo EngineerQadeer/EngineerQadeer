@@ -29,12 +29,12 @@ I am a passionate Software Engineer and Content Creator dedicated to bridging th
 ### 📈 GitHub Stats
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngineerQadeer&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/EngineerQadeer)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerQadeer&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/EngineerQadeer)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngineerQadeer&theme=tokyonight)](https://github.com/EngineerQadeer)
 
 </div>
+
 ---
+
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
 </p>
